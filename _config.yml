@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+webrick:
+  headers:
+    My-Header: qq1010903229的jekyll博客
+    
